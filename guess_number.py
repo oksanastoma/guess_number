@@ -1,11 +1,8 @@
 import random
-# from colorama import init
 from colorama import Fore, Back, Style
-# init()
 N = random.randint(0, 100)
 counter = 0
 print("vvedi chislo 0 - 100")
-# value = int(input())
 
 value = int(N/2)
 
